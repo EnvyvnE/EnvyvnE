@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @EnvyvnE
+- 👋 Hi, my name is Vlad, I'm from Moscow
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React and TypeScript
