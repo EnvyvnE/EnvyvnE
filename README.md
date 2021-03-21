@@ -1,3 +1,3 @@
-- 👋 Hi, my name is Vlad, I'm from Moscow
+- 👋 Hi, my name is Vlad, I'm studing at Yandex.Praktikum
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React
