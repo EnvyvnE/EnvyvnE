@@ -5,7 +5,9 @@
 * 😰 I participate in a hackathon - "Big Brothers Big Sisters"
 
 # Future plans
-
+* Typescript
+* Redux
+* ReactNative
 
 # Skills
 
