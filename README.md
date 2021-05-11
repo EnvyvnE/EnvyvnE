@@ -1,7 +1,7 @@
 # About me
 * 👋 Hi, my name is Vlad, I'm studing at Yandex.Praktikum
 * 👀 I’m interested in Javascript and ReactJS
-* 🌱 Working on a diploma
+* 🌟 Working on a diploma
 
 # Skills
 
