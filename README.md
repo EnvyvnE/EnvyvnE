@@ -20,8 +20,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ООП](https://img.shields.io/badge/-ООП-000?)
-![БЭМ](https://img.shields.io/badge/-БЭМ-000?)
+
 
 # Stats
 
