@@ -11,17 +11,17 @@
 
 # Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=React%20Router)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
-![ООП](https://img.shields.io/badge/-ООП-000?)
-![БЭМ](https://img.shields.io/badge/-БЭМ-000?)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ООП](https://img.shields.io/badge/-ООП-000?)
+![БЭМ](https://img.shields.io/badge/-БЭМ-000?)
 
 # Stats
 
