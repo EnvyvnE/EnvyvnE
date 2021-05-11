@@ -3,7 +3,10 @@
 * 👀 I’m interested in Javascript and ReactJS
 * 🌟 Working on a diploma
 * 😰 I participate in a hackathon - "Big Brothers Big Sisters"
-* 
+
+# Future plans
+
+
 # Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
@@ -19,4 +22,4 @@
 # Stats
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnvyvnE&show_icons=true)](https://github.com/EnvyvnE/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnvyvnE&layout=compact)](https://github.com/EnvyvnE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnvyvnE)](https://github.com/EnvyvnE/github-readme-stats)
