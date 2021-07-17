@@ -1,8 +1,6 @@
 # About me
 * 👋 Hi, my name is Vlad, I'm studing at Yandex.Praktikum
-* 👀 I’m interested in Javascript and ReactJS
-* 🌟 Working on a diploma
-* 😰 I participate in a hackathon - "Big Brothers Big Sisters"
+
 
 # Future plans
  ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
