@@ -1,5 +1,5 @@
 # About me
-* 👋 Hi, my name is Vlad, I'm studing at Yandex.Praktikum
+* 👋 Hi, my name is Vlad
 * 👀 I’m interested in Javascript and ReactJS
 
 # Future plans
