@@ -1,7 +1,7 @@
 # About me
 * 👋 Hi, my name is Vlad
 * 👀 I’m interested in Javascript and ReactJS
-* Buisness process developer at Sber
+* Business process developer at Sber
 
 # Future plans
  ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
