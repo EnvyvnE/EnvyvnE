@@ -1,5 +1,5 @@
 # About me
-* 👋 Hi, my name is Vlad
+* 👋 Hi
 * 👀 I’m interested in Javascript and ReactJS
 * Business process developer at Sber
 
